@@ -2,4 +2,4 @@
 
 For the full implementation, experiments, and results, please visit the Kaggle notebook:
 
-[View the notebook on Kaggle](https://www.kaggle.com/code/mohamedamr992/llm-mathematical-reasoning-optimization-with-cot)
+[View the notebook on Kaggle]([https://www.kaggle.com/code/mohamedamr992/llm-mathematical-reasoning-optimization-with-cot](https://www.kaggle.com/code/mohamedamr992/end-to-end-finetuning-for-lb))
